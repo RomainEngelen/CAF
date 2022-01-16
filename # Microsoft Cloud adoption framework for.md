@@ -34,3 +34,6 @@ Daarnaast is het Microsoft Cloud Adoption Framework geschreven in de microsoft D
 
 ## Wat doen de grote public cloud providers eigenlijk met deze standaard/framework? Conformeren zij zich hieraan?
 Het Microsoft Cloud Adoption Framework wordt zoals de naam al aangeeft alleen gebruikt bij Microsoft Azure. Alle grote Cloud providers hebben hun eigen tegenhangers. Zoals het Google Cloud Adoption Framework (link), AWS Cloud Adoption Framework(link) en Alibaba Cloud Methodology (link). Daarbij het is het ook duidelijk zichtbaar dat elke Cloud provider in principe hetzelfde doet maar de nadruk op hun eigen Cloud infrastructuur en producten legt.
+
+## video link
+https://www.youtube.com/watch?v=RgXHVQLZnGA
